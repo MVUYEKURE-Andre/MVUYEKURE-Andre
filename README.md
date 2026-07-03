@@ -1,90 +1,129 @@
-## Hi there 👋, I'm MVUYEKURE Andre 
-
+# Hey there 👋, I'm Andre Mvuyekure
 
 ### Electronics & Telecommunication Engineering Student · AI Engineer in Training · Systems Builder
 
-I’m a Level 3 Electronics & Telecommunication Engineering student at the University of Rwanda, building at the intersection of **hardware, software, and AI**.
+I’m a final year Electronics & Telecommunication Engineering student at the University of Rwanda, building at the intersection of hardware, software, and AI.
 
-I don’t just study systems — I **simulate, prototype, and ship them**.
+I design, prototype, and deploy systems from embedded solutions to backend applications.
 
-Currently focused on **backend development, AI engineering, networking, and embedded systems**, with the goal of building scalable technologies that solve real-world problems.
+Beyond engineering, I build and maintain **websites for clients**, delivering complete solutions from development to deployment and ongoing maintenance.
+
+Currently focused on AI engineering, backend systems, networking, and embedded technologies to create **scalable solutions for real-world problems.**
 
 ---
 
-## ⚡ What I Work With
+## What I Work With
 
-### Hardware & Telecommunications
-- MATLAB
-- GNU Radio
-- LTspice
-- Proteus
-- Arduino
-- ATmega328P
-- Software Defined Radio (SDR)
+<table>
+<tr>
+
+<td valign="top" width="33%">
+
+### Hardware & Telecom
+- MATLAB 
+- GNU Radio  
+- LTspice  
+- Proteus  
+- Arduino  
+- ATmega328P  
+- SDR  
+
+</td>
+
+<td valign="top" width="33%">
 
 ### Software & Backend
-- Python
-- Flask
-- Node.js
-- PostgreSQL
-- SQLAlchemy
-- Git & GitHub
-- HTML / CSS
+- Python 
+- Flask  
+- Node.js  
+- PostgreSQL  
+- SQLAlchemy  
+- Git & GitHub  
+- HTML / CSS  
+
+</td>
+
+<td valign="top" width="33%">
 
 ### AI & Data
-- Generative AI
-- Prompt Engineering
-- SQL
-- Database Design
-- AI Workflow Automation
+- Generative AI  
+- Prompt Engineering  
+- Data Automation 
+- Codex  
+- Claudez code  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🚀 Current Projects
-- AI-powered Lead Outreach System
-- Student E-commerce Safety Platform
+## Current Projects & Certifications
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Current Projects
+- AI-powered Lead Outreach System  
+- Student E-commerce Safety Platform  
 - Flask Blog Deployment Project
-- Embedded Systems Simulations
-- Backend Authentication Systems
+- Clients' websites ( 5 deployed) 
+- Embedded Systems Simulations  
+- Backend Authentication Systems  
+- Designed and deployed websites for 10+ clients  
+
+</td>
+<td valign="top" width="50%">
+
+### Certifications
+- Driving license & Passport 
+- 100 Days of Python Bootcamp Udemy   
+- AI usage proficiency  
+- MATLAB Onramp   
+- Digital Competency   
+- English proficiency 
+- More🔗 LinkedIn: [Andre Mvuyekure](https://www.linkedin.com/in/andre-mvuyekure/)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📜 Certifications
-- Generative AI for Everyone
-- Prompt Engineering Applications
-- PostgreSQL & SQL Projects
-- MATLAB Onramp — MathWorks (100%)
-- Digital Competency Passport — 10/10 modules completed
-- General English CEFR B2 — EF Education First
+##  Vision &  Beliefs
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## 🎯 What I'm Building Toward
-- AI-powered engineering tools
+### What I'm Building Toward
+- AI-powered engineering tools  
 - Scalable backend systems
-- Embedded intelligence solutions
-- Public hardware + software projects
-- Contributing to Africa’s tech infrastructure
+- Intelligent embedded systems
+- Real-world hardware & software projects
+- Contributing to Africa’s tech ecosystem
+
+</td>
+<td valign="top" width="50%">
+
+### Beliefs
+- I deliver solutions, not just code
+- Every project is built for real use
+- Quality and reliability come first
+- I focus on results that matter
+- Long-term support is part of my work 
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
-
-![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MVUYEKURE-Andre&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MVUYEKURE-Andre&layout=compact&theme=tokyonight)
-
----
-
-## 💭 Belief
-
-> Discipline beats motivation.  
-> Builders outlast talkers.  
-> The best investment is always in your own skills.
-
----
 
 ## 🌍 Connect With Me
+
 📍 Kigali, Rwanda  
 📧 andremvuyekure@gmail.com  
-🌐 andmart.store
+🔗 LinkedIn: [Andre Mvuyekure](https://www.linkedin.com/in/andre-mvuyekure/)
