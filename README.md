@@ -128,4 +128,4 @@ Currently focused on AI engineering, backend systems, networking, and embedded t
 
 🌍 Open to remote work & on-site opportunities · Based in Kigali, Rwanda
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-mvuyekure/)&nbsp;&nbsp;|&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?logo=whatsapp&logoColor=white)](https://wa.me/250791369687)&nbsp;&nbsp;|&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-andremvuyekure%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:andremvuyekure@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-mvuyekure/)&nbsp;&nbsp;|&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?logo=whatsapp&logoColor=white)](https://wa.me/250791369687)&nbsp;&nbsp;|&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-andremvuyekure%40gmail.com-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=andremvuyekure@gmail.com)
